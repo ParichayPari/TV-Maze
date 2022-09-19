@@ -68,3 +68,26 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Why choosen this project?
+  Inspired by Netflix I decided to give a try on making a small TV show library app where I can search shows by Actors name or directly by show name.
+
+## Screenshot of the final UI.
+    ![tvmaze_Screenshot](https://user-images.githubusercontent.com/107365891/190954956-0432ef5f-441f-4ddd-916f-72d0047f03ba.png)
+
+## Tech stack used in this project.
+    1. The app isa SPA(Single Page Application) created using create-react-app.
+    2. additional depedency used: bootstrap ver: 5.2.1.
+    
+## How I made it?
+  1. To develop the application I divided the App component into two sub-component as Navbar and Search.
+  2. The search component consist of 2 child component namely Actors and Show.
+  3. In order to keep track of states in my app, I used UseState hooks.
+  4. The search bar will appear if any of the radio button is selected and the result will be show accordingly.
+
+## Scope of Improvement:
+  The app can be improvised into a large TV show, movies and related actors informational blog (with larger size API) where user will be able to search for the show or movie details and ratings and links to watch the shows 
+  
+## Links:
+Github link: https://github.com/ParichayPari/TV-Maze
+Hosted link: 
