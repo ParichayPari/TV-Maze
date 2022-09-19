@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 
-function Actor() {
+function Actors() {
   const [inputVal, setInputVal] = useState("");
   const [actorsData, setActorsData] = useState([]);
 
@@ -94,4 +94,4 @@ function Actor() {
   );
 }
 
-export default Actor;
+export default Actors;
