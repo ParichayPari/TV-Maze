@@ -1,9 +1,9 @@
-import NavBar from './components/NavBar';
+import Navbar from './components/Navbar';
 import Search from './components/Search';
 function App() {
   return (
     <>
-      <NavBar />
+      <Navbar />
       <Search />
     </>
   );
