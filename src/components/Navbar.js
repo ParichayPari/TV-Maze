@@ -1,6 +1,6 @@
 import React from "react";
 
-function NavBar() {
+function Navbar() {
   return (
     <>
       <section>
@@ -18,4 +18,4 @@ function NavBar() {
   );
 }
 
-export default NavBar;
+export default Navbar;
