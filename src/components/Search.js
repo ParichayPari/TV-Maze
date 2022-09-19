@@ -26,16 +26,6 @@ const Search = () => {
                             <input type="radio" name="movie" onChange={() => setShowFilter()} className="ms-3" /> <strong> BY SHOWS </strong>
                         </div>
                     </div>
-                    {/* <div className="row mt-3">
-                        <div className="col-md-7">
-                            <input
-                                type="text"
-                                disabled
-                                className="form-control"
-                                placeholder="Enter your text"
-                            />
-                        </div>
-                    </div> */}
                 </div>
             </section>
             {actor ? <Actor /> : ""}
