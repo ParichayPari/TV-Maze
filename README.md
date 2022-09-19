@@ -90,4 +90,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
   
 ## Links:
 Github link: https://github.com/ParichayPari/TV-Maze
-Hosted link: 
+Hosted link: https://tv-maze-mu.vercel.app/
